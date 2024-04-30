@@ -37,4 +37,4 @@ Otherwise you can contact me through any of my socials on my
 
 :octocat:
 
-See [LICENSE](https://github.com/ahmedfouadlagha/alx-software_engineering-tools/LICENSE)
+See [LICENSE](https://github.com/ahmedfouadlagha/alx-software_engineering-tools/blob/main/LICENSE)
