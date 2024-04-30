@@ -35,6 +35,4 @@ that have been left out.
 Otherwise you can contact me through any of my socials on my
 [GitHub](https://github.com/ahmedfouadlagha) profile.
 
-:octocat:
-
-See [LICENSE](https://github.com/ahmedfouadlagha/alx-software_engineering-tools/blob/main/LICENSE)
+:octocat: See [LICENSE](https://github.com/ahmedfouadlagha/alx-software_engineering-tools/blob/main/LICENSE).
