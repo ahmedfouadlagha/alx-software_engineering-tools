@@ -13,7 +13,7 @@ specifically `Ubuntu 20.04+`.
 
 ```bash
 $ git clone https://github.com/ahmedfouadlagha/alx-software_engineering-tools.git
-$ cd tools-for-ALX_SE
+$ cd alx-software_engineering-tools
 $ chmod +x installer
 $ sudo ./installer --help
 ```
